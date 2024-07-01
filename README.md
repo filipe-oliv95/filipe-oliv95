@@ -2,7 +2,7 @@
 
   ##
 
-<img src="https://raw.githubusercontent.com/isferrei/isferrei/main/undraw_developer_activity_re_39tg.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/filipe-oliv95/filipe-oliv95/main/undraw_developer_activity_re_39tg.svg" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 Welcome to my profile! I am a Fullstack developer.
